@@ -1,2 +1,2 @@
-# liceo-formulario1
+# liceo-html-formulario1
 formulario1 html
